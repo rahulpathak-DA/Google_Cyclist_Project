@@ -15,7 +15,7 @@ The Project was  be carried out in following stages
 4.	Analyze : Understanding the trends of variables, their inter-relaions. 
 5.	Share+ Act : Preparing Visualization. Drawing insights. Sharing results.
 
-##The Visualization is avaible at .. 
+##The Visualization is avaible at .. _[plots](https://github.com/rahulpathak-DA/Google_Cyclist_Project/blob/main/Capstone_Bike%20-Short.pdf)_
 
 #######
 Following recommendations were drawn from the investigation. 
