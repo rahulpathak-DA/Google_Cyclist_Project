@@ -15,8 +15,10 @@ The Project was  be carried out in following stages
 4.	Analyze : Understanding the trends of variables, their inter-relaions. 
 5.	Share+ Act : Preparing Visualization. Drawing insights. Sharing results.
 
+##The Visualization is avaible at .. 
+
 #######
-Following recommendations was drawn from the investigation. 
+Following recommendations were drawn from the investigation. 
 
 1. #Weekend Customer Focus#: The majority of our customer base is active on weekends, presenting an opportunity for targeted efforts. Consider developing a special package or plan that provides exclusive benefits for weekday bike usage. Alternatively, introduce enticing rewards for subscribers specifically tailored to their weekend activities.
 
@@ -32,7 +34,7 @@ Following recommendations was drawn from the investigation.
 
 7.#Usage Duration Segmentation#:Understanding that most customers utilize bikes for durations under 20 minutes, create a nuanced marketing strategy by categorizing usage into duration buckets (e.g., up to 20 mins, 20 mins to 1 hour, over 1 hour). Tailor promotions to each category to maximize user satisfaction and encourage extended usage.
 
-8.#Targeting High-Milestone, Low-Footfall Areas#: Despite numerous milestones, some locations experience lower footfall. Direct targeted efforts towards these areas to increase awareness and engagement. Explore strategies to attract more users to these specific locations, ensuring a more balanced and widespread utilization of our services.
+8.#Targeting large number of landmarks , Low-Footfall Areas#: Despite numerous milestones, some locations experience lower footfall. Direct targeted efforts towards these areas to increase awareness and engagement. Explore strategies to attract more users to these specific locations, ensuring a more balanced and widespread utilization of our services.
 
 
 
